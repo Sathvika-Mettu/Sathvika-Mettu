@@ -7,7 +7,7 @@
 🔭 Currently working on Data Science & Analytics Projects  
 🌱 Learning Machine Learning & Data Engineering  
 👯 Looking for Data Analyst / Data Science opportunities  
-📫 Reach me: yourmail@email.com  
+📫 Reach me: mettusathvika363@gmail.com  
 
 ---
 
@@ -49,7 +49,7 @@
 ---
 
 ### 📫 Connect With Me
-[LinkedIn](https://linkedin.com/in/YOURPROFILE)
+[LinkedIn](https://linkedin.com/in/sathvika-mettu)
 <!--
 **Sathvika-Mettu/Sathvika-Mettu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
