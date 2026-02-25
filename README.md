@@ -14,9 +14,10 @@ I’m continuously learning and experimenting with new tools and techniques in d
 -> Reach me: mettusathvikare@gmail.com  
 
 ---
-### Connect With me:
-www.linkedin.com/in/sathvika-mettu
 ### Skills
+1. Data & Analytics Foundations: Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Data Validation, Trend Analysis, KPI Tracking, Root Cause Analysis, Data Interpretation, Reporting & Documentation
+2. Technical Tools:  SQL (Joins, Aggregations, Filtering), Python (Pandas, NumPy), Advanced Excel (Pivot Tables, Power Query, Formulas), Power BI / Tableau, Git 
+3. Communication and Business Skills: Data Storytelling, Stakeholder Communication, Presentation of Insights, Problem Solving, Critical Thinking, Cross-functional Collaboration
 
 ## 🛠️ Tech Stack
 <p align="left">
