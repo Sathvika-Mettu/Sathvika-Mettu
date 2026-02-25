@@ -14,8 +14,9 @@ I’m continuously learning and experimenting with new tools and techniques in d
 -> Reach me: mettusathvikare@gmail.com  
 
 ---
-
-### 🧠 Skills
+### Connect With me:
+www.linkedin.com/in/sathvika-mettu
+### Skills
 
 ## 🛠️ Tech Stack
 <p align="left">
