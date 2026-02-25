@@ -10,7 +10,7 @@ I’m continuously learning and experimenting with new tools and techniques in d
 -> Looking for Data Analyst / Data Science opportunities
 
 -> Ask me about Python, SQL, EDA, Data Cleaning and preprocessing , Statistical Analysis and hypothesis testing , Regression and classification models , Feature Engineering , Model Evaluation, Data Visualization, Dashboard Development, ETL Concepts, Working with structured Data sets, Data Validation and Documenntation, Data Story Telling .
-
+-> All of my Projects are available at : 
 -> Reach me: mettusathvikare@gmail.com  
 
 ---
