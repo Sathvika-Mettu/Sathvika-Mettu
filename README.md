@@ -1,6 +1,8 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sathvika</h1>
 <h3 align="center">Data Science | Data Analytics | Machine Learning</h3>
+I’m a Data Science graduate student with a strong interest in data analytics, statistical modeling, and problem-solving through data. I’m particularly drawn to understanding how raw data can be cleaned, structured, analyzed, and transformed into insights that support real business decisions. I enjoy working with Python, SQL, and visualization tools to explore patterns, build predictive models, and communicate findings in a clear and practical way. Most of my projects focus on applying analytical thinking to real-world datasets  whether it’s forecasting trends, identifying performance drivers, or evaluating model outcomes.
+I’m continuously learning and experimenting with new tools and techniques in data science, and I use this space to document my projects, share code, and grow as a data professional.
 
 ---
 
